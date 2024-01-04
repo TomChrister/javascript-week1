@@ -141,9 +141,9 @@ console.log(isGreaterThan);
 // >=
 // <=
 
-// AND // OR
+// AND // ||
 
 (true && true) // false
     (true && false) // false
     (true && false) // false
-    (true or false or false) // true
+    (true || false || false) // true
