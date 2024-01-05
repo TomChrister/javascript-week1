@@ -5,11 +5,7 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="342b6538-c633-4d89-acc0-7966ead31691" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/dom-changes/task.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/dom-changes/task.js" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/dom-changes/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/dom-changes/index.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/dom-changes/js/script.js" beforeDir="false" afterPath="$PROJECT_DIR$/dom-changes/js/script.js" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -42,12 +38,13 @@
     "RunOnceActivity.OpenProjectViewOnStart": "true",
     "RunOnceActivity.ShowReadmeOnStart": "true",
     "WebServerToolWindowFactoryState": "false",
-    "git-widget-placeholder": "js-dom-changes",
+    "git-widget-placeholder": "main",
     "last_opened_file_path": "C:/repos/javascript-week1",
     "node.js.detected.package.eslint": "true",
     "node.js.detected.package.tslint": "true",
     "node.js.selected.package.eslint": "(autodetect)",
     "node.js.selected.package.tslint": "(autodetect)",
+    "nodejs_package_manager_path": "npm",
     "settings.editor.selected.configurable": "preferences.pluginManager",
     "vue.rearranger.settings.migration": "true"
   }
@@ -69,7 +66,9 @@
       <workItem from="1704195975363" duration="27000" />
       <workItem from="1704196143993" duration="6960000" />
       <workItem from="1704279796611" duration="357000" />
-      <workItem from="1704280183576" duration="9912000" />
+      <workItem from="1704280183576" duration="9926000" />
+      <workItem from="1704367615145" duration="129000" />
+      <workItem from="1704367836799" duration="663000" />
     </task>
     <servers />
   </component>
