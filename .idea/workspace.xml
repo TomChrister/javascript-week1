@@ -5,6 +5,11 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="342b6538-c633-4d89-acc0-7966ead31691" name="Changes" comment="">
+      <change afterPath="$PROJECT_DIR$/creating-html-from-an-array/css/styles.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/creating-html-from-an-array/index.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/creating-html-from-an-array/js/script.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/loops/index.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/loops/script.js" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -17,6 +22,7 @@
       <list>
         <option value="HTML File" />
         <option value="JavaScript File" />
+        <option value="CSS File" />
       </list>
     </option>
   </component>
@@ -38,8 +44,9 @@
     "RunOnceActivity.OpenProjectViewOnStart": "true",
     "RunOnceActivity.ShowReadmeOnStart": "true",
     "WebServerToolWindowFactoryState": "false",
-    "git-widget-placeholder": "main",
+    "git-widget-placeholder": "js-loops",
     "last_opened_file_path": "C:/repos/javascript-week1",
+    "list.type.of.created.stylesheet": "CSS",
     "node.js.detected.package.eslint": "true",
     "node.js.detected.package.tslint": "true",
     "node.js.selected.package.eslint": "(autodetect)",
@@ -68,7 +75,8 @@
       <workItem from="1704279796611" duration="357000" />
       <workItem from="1704280183576" duration="9926000" />
       <workItem from="1704367615145" duration="129000" />
-      <workItem from="1704367836799" duration="663000" />
+      <workItem from="1704367836799" duration="736000" />
+      <workItem from="1704453298159" duration="3635000" />
     </task>
     <servers />
   </component>
