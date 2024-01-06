@@ -5,6 +5,9 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="342b6538-c633-4d89-acc0-7966ead31691" name="Changes" comment="">
+      <change afterPath="$PROJECT_DIR$/task2/css/styles.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/task2/index.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/task2/js/script.js" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -17,6 +20,8 @@
       <list>
         <option value="HTML File" />
         <option value="JavaScript File" />
+        <option value="TypeScript File" />
+        <option value="CSS File" />
       </list>
     </option>
   </component>
@@ -38,19 +43,22 @@
     "RunOnceActivity.OpenProjectViewOnStart": "true",
     "RunOnceActivity.ShowReadmeOnStart": "true",
     "WebServerToolWindowFactoryState": "false",
-    "git-widget-placeholder": "main",
+    "git-widget-placeholder": "js-loops",
     "last_opened_file_path": "C:/repos/javascript-week1",
+    "list.type.of.created.stylesheet": "CSS",
     "node.js.detected.package.eslint": "true",
     "node.js.detected.package.tslint": "true",
     "node.js.selected.package.eslint": "(autodetect)",
     "node.js.selected.package.tslint": "(autodetect)",
     "nodejs_package_manager_path": "npm",
     "settings.editor.selected.configurable": "preferences.pluginManager",
+    "ts.external.directory.path": "C:\\Program Files\\JetBrains\\WebStorm 2023.2.1\\plugins\\javascript-impl\\jsLanguageServicesImpl\\external",
     "vue.rearranger.settings.migration": "true"
   }
 }]]></component>
   <component name="RecentsManager">
     <key name="MoveFile.RECENT_KEYS">
+      <recent name="C:\repos\javascript-week1\task2\js" />
       <recent name="C:\repos\javascript-week1\dom-changes\js" />
       <recent name="C:\repos\javascript-week1\basics" />
     </key>
@@ -68,7 +76,8 @@
       <workItem from="1704279796611" duration="357000" />
       <workItem from="1704280183576" duration="9926000" />
       <workItem from="1704367615145" duration="129000" />
-      <workItem from="1704367836799" duration="663000" />
+      <workItem from="1704367836799" duration="736000" />
+      <workItem from="1704453298159" duration="7405000" />
     </task>
     <servers />
   </component>
