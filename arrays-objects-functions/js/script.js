@@ -57,5 +57,10 @@ console.log(books[0]);
 
 const searchBook = books.find(function (book) {
     return book.title === "Fellowship of the ring";
-})
-console.log(searchBook)
+});
+console.log(searchBook);
+
+/*
+const searchBook = books.find(function (book) {
+    return book.pages > 300;
+})*/
