@@ -4,14 +4,7 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="342b6538-c633-4d89-acc0-7966ead31691" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/fake-news-website/css/styles.css" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/fake-news-website/index.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/fake-news-website/js/script-news.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/functions-localstorage-exports/index.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/functions-localstorage-exports/js/script.js" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-    </list>
+    <list default="true" id="342b6538-c633-4d89-acc0-7966ead31691" name="Changes" comment="" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -86,6 +79,7 @@
       <workItem from="1704888030116" duration="611000" />
       <workItem from="1704890153718" duration="26000" />
       <workItem from="1704890204217" duration="4045000" />
+      <workItem from="1704909659353" duration="21000" />
     </task>
     <servers />
   </component>
