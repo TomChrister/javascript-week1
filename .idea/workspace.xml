@@ -4,16 +4,16 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="342b6538-c633-4d89-acc0-7966ead31691" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/functions/css/styles.css" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/functions/index.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/functions/js/script.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/import-export-example/index.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/import-export-example/js/main.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/import-export-example/js/user.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/import-export-example/js/utils.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/imports-exports/index.html" afterDir="false" />
+    <list default="true" id="50fe2498-587a-4901-9fb2-4e887367cb66" name="Changes" comment="">
+      <change afterPath="$PROJECT_DIR$/dark-mode/css/styles.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/dark-mode/index.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/dark-mode/js/main.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/local-storage/about.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/local-storage/index.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/local-storage/js/script.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/local-storage/js/second.js" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/import-export-example/js/main.js" beforeDir="false" afterPath="$PROJECT_DIR$/import-export-example/js/main.js" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -23,17 +23,19 @@
   <component name="FileTemplateManagerImpl">
     <option name="RECENT_TEMPLATES">
       <list>
-        <option value="TypeScript File" />
+        <option value="HTML File" />
+        <option value="JavaScript File" />
+        <option value="CSS File" />
       </list>
     </option>
   </component>
   <component name="Git.Settings">
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
   </component>
-  <component name="ProjectColorInfo">{
-  &quot;associatedIndex&quot;: 0
-}</component>
-  <component name="ProjectId" id="2aOiLvvLvNil6MEELGVaqD5pP7j" />
+  <component name="ProjectColorInfo"><![CDATA[{
+  "associatedIndex": 2
+}]]></component>
+  <component name="ProjectId" id="2ar47zkY0sk4mcMDz50eSZcTMU9" />
   <component name="ProjectLevelVcsManager">
     <ConfirmationsSetting value="2" id="Add" />
   </component>
@@ -42,65 +44,34 @@
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
   </component>
-  <component name="PropertiesComponent">{
-  &quot;keyToString&quot;: {
-    &quot;DefaultHtmlFileTemplate&quot;: &quot;HTML File&quot;,
-    &quot;RunOnceActivity.OpenProjectViewOnStart&quot;: &quot;true&quot;,
-    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
-    &quot;WebServerToolWindowFactoryState&quot;: &quot;false&quot;,
-
-    &quot;last_opened_file_path&quot;: &quot;C:/repos/javascript-week1&quot;,
-    &quot;list.type.of.created.stylesheet&quot;: &quot;CSS&quot;,
-    &quot;node.js.detected.package.eslint&quot;: &quot;true&quot;,
-    &quot;node.js.detected.package.tslint&quot;: &quot;true&quot;,
-    &quot;node.js.selected.package.eslint&quot;: &quot;(autodetect)&quot;,
-    &quot;node.js.selected.package.tslint&quot;: &quot;(autodetect)&quot;,
-    &quot;nodejs_package_manager_path&quot;: &quot;npm&quot;,
-
-    &quot;ts.external.directory.path&quot;: &quot;C:\\Program Files\\JetBrains\\WebStorm 2023.2.1\\plugins\\javascript-impl\\jsLanguageServicesImpl\\external&quot;,
-    &quot;vue.rearranger.settings.migration&quot;: &quot;true&quot;
+  <component name="PropertiesComponent"><![CDATA[{
+  "keyToString": {
+    "DefaultHtmlFileTemplate": "HTML File",
+    "RunOnceActivity.OpenProjectViewOnStart": "true",
+    "RunOnceActivity.ShowReadmeOnStart": "true",
+    "git-widget-placeholder": "local-storage",
+    "list.type.of.created.stylesheet": "CSS",
+    "node.js.detected.package.eslint": "true",
+    "node.js.detected.package.tslint": "true",
+    "node.js.selected.package.eslint": "(autodetect)",
+    "node.js.selected.package.tslint": "(autodetect)",
+    "nodejs_package_manager_path": "npm",
+    "vue.rearranger.settings.migration": "true"
   }
-}</component>
-  <component name="RecentsManager">
-    <key name="MoveFile.RECENT_KEYS">
-      <recent name="C:\repos\javascript-week1\import-export-example\js" />
-      <recent name="C:\repos\javascript-week1\import-export-example" />
-      <recent name="C:\repos\javascript-week1\task2\js" />
-      <recent name="C:\repos\javascript-week1\dom-changes\js" />
-      <recent name="C:\repos\javascript-week1\basics" />
-    </key>
-  </component>
+}]]></component>
   <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
   <component name="TaskManager">
     <task active="true" id="Default" summary="Default task">
-      <changelist id="342b6538-c633-4d89-acc0-7966ead31691" name="Changes" comment="" />
-      <created>1704195974370</created>
+      <changelist id="50fe2498-587a-4901-9fb2-4e887367cb66" name="Changes" comment="" />
+      <created>1705063200759</created>
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
-      <updated>1704195974370</updated>
-      <workItem from="1704195975363" duration="27000" />
-      <workItem from="1704196143993" duration="6960000" />
-      <workItem from="1704279796611" duration="357000" />
-      <workItem from="1704280183576" duration="9926000" />
-      <workItem from="1704367615145" duration="129000" />
-      <workItem from="1704367836799" duration="736000" />
-      <workItem from="1704453298159" duration="7405000" />
-
+      <updated>1705063200759</updated>
+      <workItem from="1705063201840" duration="3469000" />
     </task>
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
     <option name="version" value="3" />
-  </component>
-  <component name="XDebuggerManager">
-    <breakpoint-manager>
-      <breakpoints>
-        <line-breakpoint enabled="true" type="javascript">
-          <url>file://$PROJECT_DIR$/arrays-objects-functions/js/script.js</url>
-          <line>45</line>
-          <option name="timeStamp" value="1" />
-        </line-breakpoint>
-      </breakpoints>
-    </breakpoint-manager>
   </component>
 </project>
