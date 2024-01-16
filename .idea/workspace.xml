@@ -5,14 +5,12 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="342b6538-c633-4d89-acc0-7966ead31691" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/functions/css/styles.css" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/functions/index.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/functions/js/script.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/import-export-example/index.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/import-export-example/js/main.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/import-export-example/js/user.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/import-export-example/js/utils.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/imports-exports/index.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/building-a-favourite-page/css/styles.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/building-a-favourite-page/favourites.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/building-a-favourite-page/index.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/building-a-favourite-page/js/data/products.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/building-a-favourite-page/js/favourite.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/building-a-favourite-page/js/main.js" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -24,6 +22,9 @@
     <option name="RECENT_TEMPLATES">
       <list>
         <option value="TypeScript File" />
+        <option value="CSS File" />
+        <option value="HTML File" />
+        <option value="JavaScript File" />
       </list>
     </option>
   </component>
@@ -42,25 +43,24 @@
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
   </component>
-  <component name="PropertiesComponent">{
-  &quot;keyToString&quot;: {
-    &quot;DefaultHtmlFileTemplate&quot;: &quot;HTML File&quot;,
-    &quot;RunOnceActivity.OpenProjectViewOnStart&quot;: &quot;true&quot;,
-    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
-    &quot;WebServerToolWindowFactoryState&quot;: &quot;false&quot;,
-
-    &quot;last_opened_file_path&quot;: &quot;C:/repos/javascript-week1&quot;,
-    &quot;list.type.of.created.stylesheet&quot;: &quot;CSS&quot;,
-    &quot;node.js.detected.package.eslint&quot;: &quot;true&quot;,
-    &quot;node.js.detected.package.tslint&quot;: &quot;true&quot;,
-    &quot;node.js.selected.package.eslint&quot;: &quot;(autodetect)&quot;,
-    &quot;node.js.selected.package.tslint&quot;: &quot;(autodetect)&quot;,
-    &quot;nodejs_package_manager_path&quot;: &quot;npm&quot;,
-
-    &quot;ts.external.directory.path&quot;: &quot;C:\\Program Files\\JetBrains\\WebStorm 2023.2.1\\plugins\\javascript-impl\\jsLanguageServicesImpl\\external&quot;,
-    &quot;vue.rearranger.settings.migration&quot;: &quot;true&quot;
+  <component name="PropertiesComponent"><![CDATA[{
+  "keyToString": {
+    "DefaultHtmlFileTemplate": "HTML File",
+    "RunOnceActivity.OpenProjectViewOnStart": "true",
+    "RunOnceActivity.ShowReadmeOnStart": "true",
+    "WebServerToolWindowFactoryState": "false",
+    "git-widget-placeholder": "building-a-favourite-page",
+    "last_opened_file_path": "C:/repos/javascript-week1",
+    "list.type.of.created.stylesheet": "CSS",
+    "node.js.detected.package.eslint": "true",
+    "node.js.detected.package.tslint": "true",
+    "node.js.selected.package.eslint": "(autodetect)",
+    "node.js.selected.package.tslint": "(autodetect)",
+    "nodejs_package_manager_path": "npm",
+    "ts.external.directory.path": "C:\\Program Files\\JetBrains\\WebStorm 2023.2.1\\plugins\\javascript-impl\\jsLanguageServicesImpl\\external",
+    "vue.rearranger.settings.migration": "true"
   }
-}</component>
+}]]></component>
   <component name="RecentsManager">
     <key name="MoveFile.RECENT_KEYS">
       <recent name="C:\repos\javascript-week1\import-export-example\js" />
@@ -85,7 +85,6 @@
       <workItem from="1704367615145" duration="129000" />
       <workItem from="1704367836799" duration="736000" />
       <workItem from="1704453298159" duration="7405000" />
-
     </task>
     <servers />
   </component>
