@@ -1,0 +1,25 @@
+* {
+    font-size: 16px;
+    box-sizing: border-box;
+}
+
+.loader {
+    font-size: 3rem;
+    color: purple;
+}
+
+.counter {
+    font-size: 5rem;
+    margin: 0;
+    color: purple;
+}
+
+.ad {
+    background-color: orange;
+    padding: 2rem;
+    color: white;
+    font-size: 2rem;
+    position: sticky;
+    top: 0;
+    display: none;
+}
