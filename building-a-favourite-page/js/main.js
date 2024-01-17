@@ -7,7 +7,7 @@ const  productContainer = document.querySelector(".products-container");
 // 2. fill the container of the products
 
 for (let i = 0; i < products.length; i++) {
-    console.log(products[i]);
+    console.log("Products", products[i]);
     productContainer.innerHTML += `
     <div class="product">
             <img src="https://picsum.photos/180" alt="random photo">
@@ -27,6 +27,9 @@ for (let i = 0; i < products.length; i++) {
 const favourites = document.querySelectorAll("svg");
 console.log("favourites", favourites);
 
+
+
+
 function handleClick(event) {
     console.log("You clicked me", event.target);
     event.target.classList.toggle("active-heart");
@@ -37,7 +40,7 @@ for (let x = 0; x  < favourites.length; x++) {
     favourites[x].addEventListener("click", function (){
         console.log("You clicked me", favourites[x]);
         this.classList.toggle("active-heart");
-    })
+    });
 }
 
 
