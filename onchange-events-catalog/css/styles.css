@@ -1,0 +1,34 @@
+* {
+    box-sizing: border-box;
+}
+
+body {
+    font-family: Inter, sans-serif;
+}
+
+select {
+    border-radius: 8px;
+    width: 226px;
+    height: 38px;
+    border: 2px solid lightgrey;
+    padding: .5rem
+}
+
+.circles-container {
+    display: flex;
+    flex-wrap: wrap;
+    gap: 8px;
+    padding: 10px 0 0 0;
+}
+
+.circle {
+    border-radius: 50%;
+    width: 80px;
+    height: 80px;
+    background-color: #3498db;
+    color: saddlebrown;
+    align-items: center;
+    display: flex;
+    justify-content: center;
+    font-size: 22px;
+}
