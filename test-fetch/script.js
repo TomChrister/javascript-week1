@@ -1,28 +1,22 @@
+let moviesContainer = document.getElementById(`movie-container`);
+
 fetch(`https://api.noroff.dev/api/v1/square-eyes`)
-.then((Response) => Response.json())
-.then((json) => console.log(json));
+    .then(response => response.json())
+    .then(result => {
+        let movies = result;
+        console.log(result);
+        for (let i = 0; i < movies.length; i++){
+            moviesContainer.innerHTML += `
+            <div data-nr="${i}" class="movie-container">
+            <div class="img-div">
+                 <img src="${movies[i].image}" alt="poster">
+            </div>
+                <h2 class="title">${movies[i].title}</h2>
+                <span class="description">${movies[i].released}</span>
+                <span class="description">${movies[i].genre}</span>
+                <span class="rating">Rating ${movies[i].rating}</span>
+            </div>
+        `
+        }
+    });
 
-fetch('https://jsonplaceholder.typicode.com/todos/1')
-    .then((response) => response.json())
-    .then((json) => console.log(json));
-// Logs:
-// {
-// 	"userId": 1,
-// 	"id": 1,
-// 	"title": "delectus aut autem",
-// 	"completed": false
-// }
-
-fetch('https://jsonplaceholder.typicode.com/posts', {
-    method: 'POST',
-    body: JSON.stringify({
-        title: 'foo',
-        body: 'bar',
-        userId: 1,
-    }),
-    headers: {
-        'Content-type': 'application/json; charset=UTF-8',
-    },
-})
-    .then((response) => response.json())
-    .then((json) => console.log(json));
