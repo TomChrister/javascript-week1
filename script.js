@@ -175,31 +175,16 @@ console.log(splitArrays);
 
 
 
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-const games = ["MW1", "MW2", "MW3", "MW4", "MW5", "MW6"];
+let games = ["MW1", "MW2", "MW3", "MW4", "MW5", "MW6"];
 
 function splitGames (games, chunks) {
     let result = [];
     for (let i = 0; i < games.length; i += chunks) {
-        result.push(games.slice(i, i, chunks));
+        result.push(games.slice(i, i + chunks));
     }
     return result;
 }
 
-let splittedGames = splitGames(games, 2);
-console.log(splittedGames);
+let splitGame = splitGames(games, 2);
+
+console.log(splitGame);
